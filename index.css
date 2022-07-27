@@ -1,0 +1,39 @@
+body{
+    background-color:rgb(223, 222, 222);
+}
+
+
+col-md-4{
+
+}
+
+.box-part{
+
+    height: 350px;
+    width: 350px;
+
+    background-color: white;
+    border-radius: 20px;
+
+    padding: 40px 50px;
+    margin:  10px;
+}
+.fa{
+    
+    color: navy;
+    }
+
+span{
+    font-size: 12px;
+}
+.text{
+    margin: 20px 0px;
+}
+
+a{
+    border-bottom: 1px solid navy;
+}
+
+.box{
+    padding: 60px 0px;
+}
